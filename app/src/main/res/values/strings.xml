@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio Android</string>
+    <string name="feed_title">Últimas Notícias</string>
+    <string name="toolbar_title">G1 Auto Esporte</string>
+</resources>
